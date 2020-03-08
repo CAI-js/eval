@@ -21,7 +21,7 @@
  * WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
  */
 
-const { evaluate, evaluateAll } = require('../src/evaluator');
+const { evaluate, evaluateAll } = require('../src');
 
 describe('Evaluate', () => {
   describe('Walk unary', () => {

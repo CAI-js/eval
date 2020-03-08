@@ -1,7 +1,7 @@
 {
   "name": "@caijs/eval",
   "description": "Static evaluator of javascript",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "src/index.js",
   "scripts": {
     "coveralls": "jest --coverage && cat ./tests/coverage/lcov.info | coveralls",
