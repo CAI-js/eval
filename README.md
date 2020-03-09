@@ -1,7 +1,7 @@
 # @caijs/eval
 
 @caijs/eval is like eval, but executed with a context.
-static-eval is like eval. It is intended for use in build scripts and code transformations, doing some evaluation at build time—it is NOT suitable for handling arbitrary untrusted user input. Malicious user input can execute arbitrary code.
+It is intended for use in build scripts and code transformations, doing some evaluation at build time—it is NOT suitable for handling arbitrary untrusted user input. Malicious user input can execute arbitrary code.
 
 ## Installation
 
