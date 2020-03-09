@@ -428,4 +428,8 @@ function evaluate(str, context = {}, allowChanges) {
   return result[result.length - 1];
 }
 
-module.exports = { evaluateAll, evaluate, deepFreeze };
+const info = {
+  name: 'evaluator'
+}
+
+module.exports = { info, evaluateAll, evaluate, deepFreeze };
