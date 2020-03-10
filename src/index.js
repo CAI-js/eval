@@ -429,7 +429,7 @@ function evaluate(str, context = {}, allowChanges) {
 }
 
 const info = {
-  name: 'evaluator'
-}
+  name: 'evaluator',
+};
 
 module.exports = { info, evaluateAll, evaluate, deepFreeze };
