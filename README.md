@@ -1,6 +1,7 @@
 # @caijs/eval
 
 [![Build Status](https://travis-ci.com/CAI-js/eval.svg?branch=master)](https://travis-ci.com/CAI-js/eval)
+[![Coverage Status](https://coveralls.io/repos/github/CAI-js/eval/badge.svg?branch=master)](https://coveralls.io/github/CAI-js/eval?branch=master)
 [![NPM version](https://img.shields.io/npm/v/@caijs/eval.svg?style=flat)](https://www.npmjs.com/package/@caijs/eval)
 [![NPM downloads](https://img.shields.io/npm/dm/@caijs/eval.svg?style=flat)](https://www.npmjs.com/package/@caijs/eval)
 
